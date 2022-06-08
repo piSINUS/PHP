@@ -21,7 +21,7 @@
 	]
 	];
 	foreach($todos as $todo){
-		echo ("id - ".$todo["id"] . "\n");
+		echo "id - ".$todo["id"] . "\n";
 		echo "title - ".$todo["title"] . "\n\n\n";
 		echo "date - ".$todo["date"] . "\n\n\n";
 		echo "status - ".$todo["status"] . "\n\n\n";
